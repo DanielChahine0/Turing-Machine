@@ -105,4 +105,8 @@ After the addition of the w1 XOR w2 is done at the end of the strings, w1 and w2
 This is not supposed to be the perfect solution or the most efficient one, this is just my way of doing this challenge, feel free to improve my Turing Machine and play with its parameters.
 
 <br>
-Daniel
+<br>
+
+```
+Daniel Chahine
+```
