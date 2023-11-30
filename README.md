@@ -1,7 +1,10 @@
 # XOR Turing Machine
+
 ## Created a Turing Machine using YAML languange to make an XOR string out of two strings w1 and w2
-### Template by [Daniel Chahine](https://github.com/DanielChahine0)
-This Turing machine computes the XOR of w1 and w2 in a string w1#w2 and writes it at the end of the tape in this format: w1#w2$w1XORw2, where w1 and w2 are a string of 0's and 1's.
+
+### Template by  [Daniel Chahine](https://github.com/DanielChahine0)
+<hr style: width: 5px;>
+This Turing machine computes the `XOR` of w1 and w2 in a string w1#w2 and writes it at the end of the tape in this format: w1#w2$w1XORw2, where w1 and w2 are a string of 0's and 1's.
 
 The Machine could be viewd using [THIS LINK](https://turingmachine.io/?import-gist=8fd5cdb1203abb56729b97f63f26a0ca):
 
